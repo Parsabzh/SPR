@@ -1,0 +1,2272 @@
+{"applicationCategory":{
+    "parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""    
+},
+"applicationSubCategory":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"applicationSuite":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"availableOnDevice":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"countriesNotSupported":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"countriesSupported":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"downloadUrl":{
+    
+    "parent":{
+            
+        "id":"",
+        "cssClass":"sidebar-section",
+        "tag":"p",
+        "keywords":"Project links",
+        "searchPattern":""
+    
+},
+        "id":"",
+        "cssClass":"",
+        "tag":"a",
+        "xpath":"",
+        "keywords":"Download|Repository|Source",
+        "searchPattern":""
+    
+},
+"featureList":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"fileSize":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"installUrl":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"memoryRequirements":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"operatingSystem":{
+    
+    "parent":{
+            
+        "id":"",
+        "cssClass":"sidebar-section",
+        "tag":"p",
+        "keywords":"Meta",
+        "searchPattern":""
+   
+},
+        "id":"",
+        "cssClass":"",
+        "tag":"li",
+        "xpath":"",
+        "keywords":"Operating System",
+        "searchPattern":"loop"
+    
+},
+"permissions":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"processorRequirements":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"releaseNotes":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},"screenshot":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"softwareAddOn":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"softwareHelp":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"softwareRequirements":{
+    "parent":{
+            
+        "id":"",
+        "cssClass":"",
+        "tag":"p",
+        "keywords":"Meta",
+        "searchPattern":""
+    
+},
+
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"Requires",
+        "searchPattern":""
+    
+},
+"softwareVersion":{
+    "parent":{
+            
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "keywords":"",
+        "searchPattern":""
+},
+        "id":"",
+        "cssClass":"package-header__name",
+        "tag":"",
+        "xpath":"//h1[@class='package-header__name']",
+        "keywords":"",
+        "searchPattern":"split|[1]"
+    
+},
+"storageRequirements":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"supportingData":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"about":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"//*[@id=\"description\"]/div",
+        "keywords":"",
+        "searchPattern":""  
+},
+"abstract":{
+    
+    "parent":{
+            
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "keywords":"",
+        "searchPattern":""
+    
+},
+        "id":"",
+        "cssClass":"package-description__summary",
+        "tag":"",
+        "xpath":"//p[@class='package-description__summary']",
+        "keywords":"",
+        "searchPattern":""
+    
+},
+"accessMode":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"accessModeSufficient":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"accessibilityAPI":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"accessibilityControl":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"accessibilityFeature":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"accessibilityHazard":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"accessibilitySummary":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"accountablePerson":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"acquireLicensePage":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"aggregateRating":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"alternativeHeadline":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"archivedAt":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"assesses":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"associatedMedia":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"audience":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},"audio":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"author":{
+    
+    "parent":{
+        "id":"",
+        "cssClass":"",
+        "tag":"p",
+        "keywords":"Meta",
+        "searchPattern":""
+},
+        "id":"",
+        "cssClass":"",
+        "tag":"a",
+        "xpath":"",
+        "keywords":"Author|Maintainer",
+        "searchPattern":""
+    
+},"award":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"character":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"citation":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"comment":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"commentCount":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"conditionsOfAccess":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"contentLocation":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"contentRating":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"contentReferenceTime":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"contributor":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"copyrightHolder":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"copyrightNotice":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"copyrightYear":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"correction":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"countryOfOrigin":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"creativeWorkStatus":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"creator":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"creditText":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"dateCreated":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"dateModified":{
+    "parent":{
+            
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "keywords":"",
+        "searchPattern":""},
+        "xpath":"//div[@class='package-header__right']/p[@class='package-header__date']/time",
+        "id":"",
+        "cssClass":"package-header__date",
+        "tag":"",
+       
+        "keywords":"",
+        "searchPattern":""
+},
+"datePublished":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"discussionUrl":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"editEIDR":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"editor":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"educationalAlignment":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"educationalLevel":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"educationalUse":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"encoding":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"encodingFormat":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"exampleOfWork":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"expires":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"funder":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"funding":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"genre":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"hasPart":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"headline":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"inLanguage":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"interactionStatistic":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"interactivityType":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"interpretedAsClaim":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"isAccessibleForFree":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"isBasedOn":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"isFamilyFriendly":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"isPartOf":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"keywords":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"learningResourceType":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"license":{
+    
+    "parent":{
+        "id":"",
+        "cssClass":"",
+        "tag":"P",
+        "keywords":"Meta",
+        "searchPattern":""
+    
+},
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"License",
+        "searchPattern":""
+        
+},
+"locationCreated":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"mainEntity":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"maintainer":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"material":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"materialExtent":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"mentions":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"offers":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"pattern":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"position":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"producer":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"provider":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"publication":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"publisher":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"publisherImprint":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"publishingPrinciples":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"recordedAt":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"releasedEvent":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"review":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"schemaVersion":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"sdDatePublished":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"sdLicense":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"sdPublisher":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"size":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"sourceOrganization":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"spatial":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"spatialCoverage":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"sponsor":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"teaches":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"temporal":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"temporalCoverage":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"text":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"thumbnail":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"thumbnailUrl":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"timeRequired":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"translationOfWork":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"translator":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"typicalAgeRange":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"usageInfo":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"version":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"video":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"workExample":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"workTranslation":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"additionalType":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"alternateName":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"disambiguatingDescription":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"identifier":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"image":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"mainEntityOfPage":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"name":{
+    
+    "parent":{ 
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "keywords":"",
+        "searchPattern":""
+},
+        "id":"",
+        "cssClass":"package-header__name",
+        "tag":"",
+        "xpath":"//h1[@class='package-header__name']",
+        "keywords":"",
+        "searchPattern":"split|[0]"
+    },
+"potentialAction":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"sameAs":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+},
+"subjectOf":{"parent":
+            {
+                "id":"",
+                "cssClass":"",
+                "tag":"",
+                "keywords":"",
+                "searchPattern":""
+            }
+        ,
+        "id":"",
+        "cssClass":"",
+        "tag":"",
+        "xpath":"",
+        "keywords":"",
+        "searchPattern":""  
+}
+,"url":{
+    
+    "parent":{
+            
+        "id":"",
+        "cssClass":"sidebar-section",
+        "tag":"P",
+        "keywords":"Project links",
+        "searchPattern":""
+    
+},
+        "id":"",
+        "cssClass":"",
+        "tag":"a",
+        "xpath":"ul[contains(@class, 'vertical-tabs__list')]/li/a[contains(., 'Homepage')]",
+        "keywords":"Homepage",
+        "searchPattern":""
+}}
